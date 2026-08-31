@@ -5,7 +5,6 @@ permalink: /about/
 author_profile: true
 ---
 
-# About Me
 
 I am a project management professional with 3+ years of experience coordinating cross-functional projects and supporting end-to-end delivery across IT and professional environments.
 
