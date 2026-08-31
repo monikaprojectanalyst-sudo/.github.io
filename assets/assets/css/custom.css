@@ -1,0 +1,29 @@
+/* Professional Highlight Cards */
+.feature__item .archive__item {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 22px;
+  min-height: 150px;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+
+  /* Smooth movement */
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+/* Movement when mouse hovers over card */
+.feature__item .archive__item:hover {
+  transform: translateY(-7px);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.13);
+}
+
+/* Highlight numbers */
+.feature__item .archive__item h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+/* Highlight descriptions */
+.feature__item .archive__item p {
+  margin-bottom: 0;
+}
