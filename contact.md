@@ -15,7 +15,7 @@ I am open to connecting with professionals and organizations where I can contrib
 
 **Email:** [monikaprojectanalyst@gmail.com](mailto:monikaprojectanalyst@gmail.com)
 
-**LinkedIn:** [Connect with me on LinkedIn](YOUR-LINKEDIN-URL)
+**LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/monikadhanotra/)
 
 **GitHub:** [View my GitHub Profile](https://github.com/monikaprojectanalyst-studo)
 
