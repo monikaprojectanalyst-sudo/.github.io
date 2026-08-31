@@ -26,6 +26,7 @@ Led the end-to-end coordination and delivery of the Quarterly Newsletter from in
 
 **90% On-Time Completion**
 
+[View Published Newsletter →](https://www.linkedin.com/in/monikadhanotra/overlay/Project/1988720591/treasury/?profileId=ACoAADwptSQBwZUuWEZYR8QKZsyFlU3WPry2T6I)
 ---
 
 ## PROLEED
