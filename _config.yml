@@ -63,9 +63,8 @@ plugins:
 author:
   name: "Monika Dhanotra"
   avatar: "/assets/images/profile.jpg"
-  bio: "PMP® | CAPM® | Project Management Professional"
+  bio: "Project Management Professional"
   location: "Ontario, Canada"
-  email: "monikaprojectanalyst@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -78,9 +77,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/monikaprojectanalyst-studo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
